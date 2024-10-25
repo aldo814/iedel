@@ -70,7 +70,7 @@
 .notice_write .write_div{margin: 15px 0 ;}
 .notice_write label{display: block;font-size: 20px;margin-bottom: 10px;}
 .notice_write input {border: 1px solid #dcdcdc;padding: 15px 20px;width: 100%;}
-.notice_write textarea{height: 200px;resize: none;}
+.notice_write textarea{height: 200px;resize: none;padding: 15px 20px;}
 .notice_write .link_div{border: 1px solid #dcdcdc;background: url(../_img/link.png) no-repeat left 10px center;display: flex;background-size: 20px;}
 .notice_write .link_div input{border: 0;width: calc(100% - 40px);margin-left: auto;}
 
